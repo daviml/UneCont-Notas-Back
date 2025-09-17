@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF04D4B-3EE6-4129-9750-2FE5EB25592F}|UneCont Notas Fiscais.csproj|c:\\users\\davim\\documents\\github\\unecont-notas-back\\unecont-notas-fiscais-back\\services\\notasfiscaisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF04D4B-3EE6-4129-9750-2FE5EB25592F}|UneCont Notas Fiscais.csproj|solutionrelative:services\\notasfiscaisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF04D4B-3EE6-4129-9750-2FE5EB25592F}|UneCont Notas Fiscais.csproj|c:\\users\\davim\\documents\\github\\unecont-notas-back\\unecont-notas-fiscais-back\\entities\\notasfiscais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF04D4B-3EE6-4129-9750-2FE5EB25592F}|UneCont Notas Fiscais.csproj|solutionrelative:entities\\notasfiscais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF04D4B-3EE6-4129-9750-2FE5EB25592F}|UneCont Notas Fiscais.csproj|c:\\users\\davim\\documents\\github\\unecont-notas-back\\unecont-notas-fiscais-back\\dtos\\notasfiscaisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF04D4B-3EE6-4129-9750-2FE5EB25592F}|UneCont Notas Fiscais.csproj|solutionrelative:dtos\\notasfiscaisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF04D4B-3EE6-4129-9750-2FE5EB25592F}|UneCont Notas Fiscais.csproj|c:\\users\\davim\\documents\\github\\unecont-notas-back\\unecont-notas-fiscais-back\\controllers\\notasfiscaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF04D4B-3EE6-4129-9750-2FE5EB25592F}|UneCont Notas Fiscais.csproj|solutionrelative:controllers\\notasfiscaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0406FA3A-4B84-49C1-B6C2-A26617C26985}|..\\UneCont_Notas_Fiscais.Tests\\UneCont_Notas_Fiscais.Tests.csproj|c:\\users\\davim\\documents\\github\\unecont-notas-back\\unecont_notas_fiscais.tests\\testenota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF04D4B-3EE6-4129-9750-2FE5EB25592F}|UneCont Notas Fiscais.csproj|c:\\users\\davim\\documents\\github\\unecont-notas-back\\unecont-notas-fiscais-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF04D4B-3EE6-4129-9750-2FE5EB25592F}|UneCont Notas Fiscais.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF04D4B-3EE6-4129-9750-2FE5EB25592F}|UneCont Notas Fiscais.csproj|c:\\users\\davim\\documents\\github\\unecont-notas-back\\unecont-notas-fiscais-back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AF04D4B-3EE6-4129-9750-2FE5EB25592F}|UneCont Notas Fiscais.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotasFiscais.cs",
+              "DocumentMoniker": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\Entities\\NotasFiscais.cs",
+              "RelativeDocumentMoniker": "Entities\\NotasFiscais.cs",
+              "ToolTip": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\Entities\\NotasFiscais.cs",
+              "RelativeToolTip": "Entities\\NotasFiscais.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:46:03.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotasFiscaisDto.cs",
+              "DocumentMoniker": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\DTOs\\NotasFiscaisDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\NotasFiscaisDto.cs",
+              "ToolTip": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\DTOs\\NotasFiscaisDto.cs",
+              "RelativeToolTip": "DTOs\\NotasFiscaisDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:26:03.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwCkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:20:51.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-17T13:18:13.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotasFiscaisService.cs",
+              "DocumentMoniker": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\Services\\NotasFiscaisService.cs",
+              "RelativeDocumentMoniker": "Services\\NotasFiscaisService.cs",
+              "ToolTip": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\Services\\NotasFiscaisService.cs",
+              "RelativeToolTip": "Services\\NotasFiscaisService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:17:15.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotasFiscaisController.cs",
+              "DocumentMoniker": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\Controllers\\NotasFiscaisController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotasFiscaisController.cs",
+              "ToolTip": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\Controllers\\NotasFiscaisController.cs",
+              "RelativeToolTip": "Controllers\\NotasFiscaisController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:16:01.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TesteNota.cs",
+              "DocumentMoniker": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont_Notas_Fiscais.Tests\\TesteNota.cs",
+              "RelativeDocumentMoniker": "..\\UneCont_Notas_Fiscais.Tests\\TesteNota.cs",
+              "ToolTip": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont_Notas_Fiscais.Tests\\TesteNota.cs",
+              "RelativeToolTip": "..\\UneCont_Notas_Fiscais.Tests\\TesteNota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:00:14.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

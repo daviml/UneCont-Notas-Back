@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Fiscais\\UneCont_Notas_Fiscais.Tests\\UneCont_Notas_Fiscais.Tests.csproj": {}
+    "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont_Notas_Fiscais.Tests\\UneCont_Notas_Fiscais.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Fiscais\\UneCont-Notas-Fiscais-Back\\UneCont Notas Fiscais.csproj": {
+    "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\UneCont Notas Fiscais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Fiscais\\UneCont-Notas-Fiscais-Back\\UneCont Notas Fiscais.csproj",
+        "projectUniqueName": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\UneCont Notas Fiscais.csproj",
         "projectName": "UneCont Notas Fiscais",
-        "projectPath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Fiscais\\UneCont-Notas-Fiscais-Back\\UneCont Notas Fiscais.csproj",
+        "projectPath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\UneCont Notas Fiscais.csproj",
         "packagesPath": "C:\\Users\\davim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Fiscais\\UneCont-Notas-Fiscais-Back\\obj\\",
+        "outputPath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Fiscais\\UneCont_Notas_Fiscais.Tests\\UneCont_Notas_Fiscais.Tests.csproj": {
+    "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont_Notas_Fiscais.Tests\\UneCont_Notas_Fiscais.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Fiscais\\UneCont_Notas_Fiscais.Tests\\UneCont_Notas_Fiscais.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont_Notas_Fiscais.Tests\\UneCont_Notas_Fiscais.Tests.csproj",
         "projectName": "UneCont_Notas_Fiscais.Tests",
-        "projectPath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Fiscais\\UneCont_Notas_Fiscais.Tests\\UneCont_Notas_Fiscais.Tests.csproj",
+        "projectPath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont_Notas_Fiscais.Tests\\UneCont_Notas_Fiscais.Tests.csproj",
         "packagesPath": "C:\\Users\\davim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Fiscais\\UneCont_Notas_Fiscais.Tests\\obj\\",
+        "outputPath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont_Notas_Fiscais.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,8 +106,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Fiscais\\UneCont-Notas-Fiscais-Back\\UneCont Notas Fiscais.csproj": {
-                "projectPath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Fiscais\\UneCont-Notas-Fiscais-Back\\UneCont Notas Fiscais.csproj"
+              "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\UneCont Notas Fiscais.csproj": {
+                "projectPath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\UneCont Notas Fiscais.csproj"
               }
             }
           }

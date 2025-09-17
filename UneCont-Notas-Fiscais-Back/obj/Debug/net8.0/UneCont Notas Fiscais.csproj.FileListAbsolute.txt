@@ -104,3 +104,39 @@ C:\Users\davim\Documents\GitHub\UneCont-Notas-Fiscais\UneCont-Notas-Fiscais-Back
 C:\Users\davim\Documents\GitHub\UneCont-Notas-Fiscais\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont Notas Fiscais.pdb
 C:\Users\davim\Documents\GitHub\UneCont-Notas-Fiscais\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont Notas Fiscais.genruntimeconfig.cache
 C:\Users\davim\Documents\GitHub\UneCont-Notas-Fiscais\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\ref\UneCont Notas Fiscais.dll
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\bin\Debug\net8.0\appsettings.json
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\bin\Debug\net8.0\UneCont Notas Fiscais.staticwebassets.endpoints.json
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\bin\Debug\net8.0\UneCont Notas Fiscais.exe
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\bin\Debug\net8.0\UneCont Notas Fiscais.deps.json
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\bin\Debug\net8.0\UneCont Notas Fiscais.runtimeconfig.json
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\bin\Debug\net8.0\UneCont Notas Fiscais.dll
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\bin\Debug\net8.0\UneCont Notas Fiscais.pdb
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont Notas Fiscais.csproj.AssemblyReference.cache
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont Notas Fiscais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont Notas Fiscais.AssemblyInfoInputs.cache
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont Notas Fiscais.AssemblyInfo.cs
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont Notas Fiscais.csproj.CoreCompileInputs.cache
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont Notas Fiscais.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont Notas Fiscais.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont Notas Fiscais.sourcelink.json
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\scopedcss\bundle\UneCont Notas Fiscais.styles.css
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont .919351DE.Up2Date
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont Notas Fiscais.dll
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\refint\UneCont Notas Fiscais.dll
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont Notas Fiscais.pdb
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont Notas Fiscais.genruntimeconfig.cache
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Back\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\ref\UneCont Notas Fiscais.dll

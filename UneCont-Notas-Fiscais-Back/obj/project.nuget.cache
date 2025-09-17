@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jCoI1UfzgUg=",
+  "dgSpecHash": "/VW0O5XDTv8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Fiscais\\UneCont-Notas-Fiscais-Back\\UneCont Notas Fiscais.csproj",
+  "projectFilePath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont-Notas-Fiscais-Back\\UneCont Notas Fiscais.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\davim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\davim\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

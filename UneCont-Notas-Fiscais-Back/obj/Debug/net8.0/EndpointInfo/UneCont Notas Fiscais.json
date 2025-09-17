@@ -222,6 +222,10 @@
           "dataEmissao": {
             "type": "string",
             "format": "date"
+          },
+          "dataHoraCadastro": {
+            "type": "string",
+            "format": "date-time"
           }
         },
         "additionalProperties": false

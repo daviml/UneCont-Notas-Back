@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+QcPzLpUKmA=",
+  "dgSpecHash": "fplPMN866ZM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Fiscais\\UneCont_Notas_Fiscais.Tests\\UneCont_Notas_Fiscais.Tests.csproj",
+  "projectFilePath": "C:\\Users\\davim\\Documents\\GitHub\\UneCont-Notas-Back\\UneCont_Notas_Fiscais.Tests\\UneCont_Notas_Fiscais.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\davim\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\davim\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

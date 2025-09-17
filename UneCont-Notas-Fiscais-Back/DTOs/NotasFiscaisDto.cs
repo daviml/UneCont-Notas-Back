@@ -9,7 +9,7 @@ namespace UneCont_Notas_Fiscais.DTOs
 
         [Required(ErrorMessage = "O nome do cliente é obrigatório.")]
         [MaxLength(100, ErrorMessage = "O nome do cliente não pode exceder 100 caracteres.")]
-        public string NomeCliente { get; set; }
+        public required string NomeCliente { get; set; }
 
         [Required(ErrorMessage = "O valor é obrigatório.")]
         [Range(0.01, double.MaxValue, ErrorMessage = "O valor deve ser maior que 0.")]

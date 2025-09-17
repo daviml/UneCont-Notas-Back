@@ -41,7 +41,7 @@ namespace UneCont_Notas_Fiscais.Controllers
                 NumeroDaNota = novaNotaDto.NumeroDaNota,
                 NomeCliente = novaNotaDto.NomeCliente,
                 Valor = novaNotaDto.Valor,
-                DataEmissao = DateOnly.FromDateTime(DateTime.Now)
+                DataEmissao = novaNotaDto.DataEmissao
             };
 
             _service.Add(novaNota);

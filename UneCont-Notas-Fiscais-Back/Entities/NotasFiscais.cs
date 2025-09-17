@@ -9,5 +9,6 @@ namespace UneCont_Notas_Fiscais.Models
         public string NomeCliente { get; set; }
         public decimal Valor { get; set; }
         public DateOnly DataEmissao { get; set; }
+        public DateTime DataHoraCadastro { get; set; }
     }
 }
