@@ -1,0 +1,116 @@
+[
+  {
+    "ContainingType": "UneCont_Notas_Fiscais.Controllers.NotasFiscaisController",
+    "Method": "Get",
+    "RelativePath": "notas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[UneCont_Notas_Fiscais.Models.NotasFiscais, UneCont Notas Fiscais, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UneCont_Notas_Fiscais.Controllers.NotasFiscaisController",
+    "Method": "Post",
+    "RelativePath": "notas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "novaNotaDto",
+        "Type": "UneCont_Notas_Fiscais.DTOs.NotasFiscaisDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UneCont_Notas_Fiscais.Models.NotasFiscais",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UneCont_Notas_Fiscais.Controllers.NotasFiscaisController",
+    "Method": "GetByNome",
+    "RelativePath": "notas/buscar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[UneCont_Notas_Fiscais.Models.NotasFiscais, UneCont Notas Fiscais, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UneCont_Notas_Fiscais.Controllers.NotasFiscaisController",
+    "Method": "Get",
+    "RelativePath": "NotasFiscais/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UneCont_Notas_Fiscais.Models.NotasFiscais",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UneCont_Notas_Fiscais.Controllers.NotasFiscaisController",
+    "Method": "Delete",
+    "RelativePath": "NotasFiscais/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

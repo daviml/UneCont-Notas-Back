@@ -1,0 +1,6 @@
+@UneCont_Notas_Fiscais_HostAddress = http://localhost:5091
+
+GET {{UneCont_Notas_Fiscais_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

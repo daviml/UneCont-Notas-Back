@@ -1,0 +1,8 @@
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont_Notas_Fiscais.csproj.AssemblyReference.cache
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont_Notas_Fiscais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont_Notas_Fiscais.AssemblyInfoInputs.cache
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont_Notas_Fiscais.AssemblyInfo.cs
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont_Notas_Fiscais.csproj.CoreCompileInputs.cache
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont_Notas_Fiscais.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\davim\Documents\GitHub\UneCont-Notas-Fiscais-Back\obj\Debug\net8.0\UneCont_Notas_Fiscais.MvcApplicationPartsAssemblyInfo.cache
