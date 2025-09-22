@@ -8,10 +8,8 @@ namespace UneCont_Notas_Fiscais.Controllers
     [Route("[controller]")]
     public class NotasFiscaisController : ControllerBase
     {
-        // Declara uma variável privada para o serviço
         private readonly NotasFiscaisService _service;
 
-        // O construtor recebe o serviço por injeção de dependência
         public NotasFiscaisController(NotasFiscaisService service)
         {
             _service = service;
@@ -28,8 +26,6 @@ namespace UneCont_Notas_Fiscais.Controllers
         [HttpPost("/notas")]
         public ActionResult<NotasFiscais> Post([FromBody] NotasFiscaisDto novaNotaDto)
         {
-            // A validação do DTO é feita automaticamente pelo ASP.NET Core.
-            // Se o modelo for inválido, o framework retorna um Bad Request (400) automaticamente.
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
@@ -64,7 +60,7 @@ namespace UneCont_Notas_Fiscais.Controllers
             var nota = _service.GetById(id);
             if (nota == null)
             {
-                return NotFound(); // Retorna 404 Not Found se a nota não for encontrada
+                return NotFound();
             }
             return Ok(nota);
         }
@@ -76,9 +72,9 @@ namespace UneCont_Notas_Fiscais.Controllers
             var sucesso = _service.Delete(id);
             if (!sucesso)
             {
-                return NotFound(); // Retorna 404 Not Found se a nota não for encontrada
+                return NotFound();
             }
-            return NoContent(); // Retorna 204 No Content para indicar sucesso na deleção
+            return NoContent();
         }
     }
 }

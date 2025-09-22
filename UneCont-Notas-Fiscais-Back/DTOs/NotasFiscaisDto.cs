@@ -15,7 +15,6 @@ namespace UneCont_Notas_Fiscais.DTOs
         [Range(0.01, double.MaxValue, ErrorMessage = "O valor deve ser maior que 0.")]
         public decimal Valor { get; set; }
 
-        // Adicione a data de emissão aqui
         [Required(ErrorMessage = "A data de emissão é obrigatória.")]
         public DateOnly DataEmissao { get; set; }
     }

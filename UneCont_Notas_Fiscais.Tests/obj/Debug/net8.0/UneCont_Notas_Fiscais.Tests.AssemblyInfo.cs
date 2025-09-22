@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UneCont_Notas_Fiscais.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e385144659745d72081cbb82c03c7b6cd079cff8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25e1203724ca15d0c79241d25b5a89ba19b27cc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("UneCont_Notas_Fiscais.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UneCont_Notas_Fiscais.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

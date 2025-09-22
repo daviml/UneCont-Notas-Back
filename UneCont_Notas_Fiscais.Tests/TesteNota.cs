@@ -9,7 +9,7 @@ public class NotasFiscaisServiceTests
     {
         // INSERE
         var service = new NotasFiscaisService();
-        var nota = new NotasFiscais { NumeroDaNota = 1, NomeCliente = "João", Valor = 100.00m };
+        var nota = new NotasFiscais { NumeroDaNota = 1, NomeCliente = "João", Valor = 100.00m, DataEmissao = new DateOnly(2025, 9, 15), };
 
         // EXECUTA
         service.Add(nota);
@@ -25,9 +25,9 @@ public class NotasFiscaisServiceTests
     {
         // INSERE
         var service = new NotasFiscaisService();
-        service.Add(new NotasFiscais { NumeroDaNota = 1, NomeCliente = "João", Valor = 100.00m });
-        service.Add(new NotasFiscais { NumeroDaNota = 2, NomeCliente = "Maria", Valor = 200.00m });
-        service.Add(new NotasFiscais { NumeroDaNota = 3, NomeCliente = "José", Valor = 300.00m });
+        service.Add(new NotasFiscais { NumeroDaNota = 1, NomeCliente = "João", Valor = 100.00m, DataEmissao = new DateOnly(2025, 9, 15), });
+        service.Add(new NotasFiscais { NumeroDaNota = 2, NomeCliente = "Maria", Valor = 200.00m, DataEmissao = new DateOnly(2025, 9, 15), });
+        service.Add(new NotasFiscais { NumeroDaNota = 3, NomeCliente = "José", Valor = 300.00m, DataEmissao = new DateOnly(2025, 9, 15), });
 
         // EXECUTA
         var notasFiltradas = service.GetByNome("Maria");
